@@ -1,0 +1,17 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Code -&gt; Code Cleanup..." count="2" />
+      <entry path="File -&gt; New Project..." count="7" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="12" />
+      <entry path="File -&gt; Open..." count="1" />
+      <entry path="File -&gt; Settings..." count="3" />
+      <entry path="Run -&gt; Run" count="1" />
+      <entry path="Run -&gt; Run..." count="1" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; GitHub" count="2" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="3" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="3" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="4" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,117 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/MQTT Broker-Database Input Service" />
+        <option value="$USER_HOME$/PycharmProjects/untitled" />
+        <option value="$USER_HOME$/PycharmProjects/Extract_JSON_Data_Through_MQTT_Broker" />
+        <option value="$USER_HOME$/PycharmProjects/MQTT Broker" />
+        <option value="$USER_HOME$/PycharmProjects/Republish HTML Data Over MQTT(Flight Arrivals)" />
+        <option value="$USER_HOME$/PycharmProjects/mangoDB_tests" />
+        <option value="$USER_HOME$/PycharmProjects/blockchain" />
+        <option value="$USER_HOME$/PycharmProjects/Shreyas's Projects" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/untitled" />
+        <option value="$USER_HOME$/PycharmProjects/MQTT Broker-Database Input Service" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/PycharmProjects/MQTT Broker-Database Input Service" />
+    <option name="pid" value="12356" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/Extract_JSON_Data_Through_MQTT_Broker">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544175575860" />
+              <option name="buildTimestamp" value="1513635519796" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/MQTT Broker">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544167046097" />
+              <option name="buildTimestamp" value="1513635519796" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/MQTT Broker-Database Input Service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544177063927" />
+              <option name="buildTimestamp" value="1513635519796" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/Republish HTML Data Over MQTT(Flight Arrivals)">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544164929099" />
+              <option name="buildTimestamp" value="1513635519796" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/Shreyas's Projects">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543825064751" />
+              <option name="buildTimestamp" value="1513635535636" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/blockchain">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543907229900" />
+              <option name="buildTimestamp" value="1513635538971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/mangoDB_tests">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543913676849" />
+              <option name="buildTimestamp" value="1513635538971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-173.4127.16" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544177063927" />
+              <option name="buildTimestamp" value="1513635519796" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

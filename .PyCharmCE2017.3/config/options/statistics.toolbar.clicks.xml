@@ -1,0 +1,20 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="CheckinProject@NavBarToolbar" count="1" />
+      <entry action="Debug@NavBarToolbar" count="11" />
+      <entry action="Rerun@RunnerToolbar" count="2" />
+      <entry action="Run@NavBarToolbar" count="200" />
+      <entry action="Stop@NavBarToolbar" count="37" />
+      <entry action="Stop@RunnerToolbar" count="12" />
+      <entry action="Vcs.UpdateProject@NavBarToolbar" count="1" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="3" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="2" />
+      <entry action="com.intellij.ide.actions.NextOccurenceToolbarAction@DebuggerToolbar" count="6" />
+      <entry action="com.intellij.notification.EventLogConsole$ClearLogAction@EventLog" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="13" />
+      <entry action="com.intellij.webcore.packaging.InstalledPackagesPanel$4@ToolbarDecorator" count="4" />
+      <entry action="com.jetbrains.python.configuration.PythonSdkDetailsDialog$ShowPathButton@ToolbarDecorator" count="3" />
+    </counts>
+  </component>
+</application>
