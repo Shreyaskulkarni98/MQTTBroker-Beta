@@ -10,14 +10,14 @@
     <property name="fileTypeChangedCounter" value="2" />
     <property name="PyCharm.initialConfigurationShown" value="true" />
     <property name="lastTip" value="4" />
-    <property name="file.gist.reindex.count" value="7024" />
+    <property name="file.gist.reindex.count" value="7030" />
     <property name="SearchEveryWhereHistory" value="cam&#10;pub&#10;sub&#10;main" />
     <property name="OpenOrAttachDialog.OpenMode" value="new" />
     <property name="Default.savedEditorTheme" value="_@user_Default" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/.gitconfig&#10;C:/Users/KL USER/PycharmProjects/MQTT Broker-Database Input Service&#10;C:/Users/KL USER/PycharmProjects/untitled/MQTT Broker&#10;C:/Users/KL USER/Desktop/Git Bash.lnk&#10;C:/Users/KL USER/PycharmProjects/untitled/stringToArray.py" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/PycharmProjects/MQTT Broker-Database Input Service&#10;C:/Users/KL USER/.gitconfig&#10;C:/Users/KL USER/PycharmProjects/untitled/MQTT Broker&#10;C:/Users/KL USER/Desktop/Git Bash.lnk&#10;C:/Users/KL USER/PycharmProjects/untitled/stringToArray.py" />
     <property name="SplitFileEditor.Proportion" value="0.85" />
-    <property name="PACKAGE_FILTER" value="camelcase&#10;pah&#10;paho" />
+    <property name="PACKAGE_FILTER" value="paho&#10;camelcase&#10;pah" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
   </component>
 </application>

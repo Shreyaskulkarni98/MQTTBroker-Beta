@@ -18,7 +18,7 @@
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="395" last-shown="0" last-used="1544164589659" shown-count="0" />
+    <feature id="editing.completion.basic" count="396" last-shown="0" last-used="1544177700457" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.select.word" count="103" last-shown="0" last-used="1544164587933" shown-count="0" />
     <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -39,7 +39,7 @@
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
       <option name="sparedCharacters" value="1563" />
-      <option name="invocations" value="355" />
+      <option name="invocations" value="356" />
       <option name="startDate" value="1543775400000" />
       <option name="dayCount" value="5" />
       <option name="lastDate" value="1544121000000" />

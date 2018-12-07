@@ -4,7 +4,7 @@
       <entry action="$Delete" count="13" />
       <entry action="$SelectAll" count="21" />
       <entry action="$Undo" count="115" />
-      <entry action="CheckinProject" count="1" />
+      <entry action="CheckinProject" count="2" />
       <entry action="ChooseRunConfiguration" count="1" />
       <entry action="CloseAllEditors" count="1" />
       <entry action="CodeCleanup" count="2" />
@@ -12,8 +12,8 @@
       <entry action="Configure Python Interpreter" count="6" />
       <entry action="CopyPaths" count="4" />
       <entry action="Debug" count="12" />
-      <entry action="EditorBackSpace" count="2758" />
-      <entry action="EditorChooseLookupItem" count="393" />
+      <entry action="EditorBackSpace" count="2766" />
+      <entry action="EditorChooseLookupItem" count="394" />
       <entry action="EditorChooseLookupItemReplace" count="1" />
       <entry action="EditorCopy" count="32" />
       <entry action="EditorCut" count="10" />
@@ -48,18 +48,18 @@
       <entry action="Rerun" count="2" />
       <entry action="Resume" count="6" />
       <entry action="RevealIn" count="3" />
-      <entry action="Run" count="278" />
-      <entry action="RunClass" count="129" />
+      <entry action="Run" count="279" />
+      <entry action="RunClass" count="130" />
       <entry action="SaveAll" count="6" />
       <entry action="SearchEverywhere" count="13" />
       <entry action="ShowFilePath" count="1" />
-      <entry action="ShowSettings" count="11" />
+      <entry action="ShowSettings" count="12" />
       <entry action="Start.Use.Vcs" count="3" />
       <entry action="StepOver" count="29" />
       <entry action="Stop" count="52" />
       <entry action="ToggleLineBreakpoint" count="46" />
       <entry action="UnmarkRoot" count="5" />
-      <entry action="Vcs.UpdateProject" count="1" />
+      <entry action="Vcs.UpdateProject" count="2" />
       <entry action="ViewBreakpoints" count="3" />
     </counts>
   </component>

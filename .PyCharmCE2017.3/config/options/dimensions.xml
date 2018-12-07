@@ -2,7 +2,7 @@
   <component name="DimensionService">
     <location key="WELCOME_SCREEN.0.0.1920.1080@144dpi" x="962" y="475" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@144dpi" x="465" y="249" />
-    <location key="SettingsEditor.0.0.1920.1080@144dpi" x="184" y="0" />
+    <location key="SettingsEditor.0.0.1920.1080@144dpi" x="167" y="0" />
     <location key="FileChooserDialogImpl.0.0.1920.1080@144dpi" x="637" y="139" />
     <location key="#test.0.0.1920.1080@144dpi" x="613" y="0" />
     <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1920.1080@144dpi" x="648" y="293" />
@@ -12,10 +12,10 @@
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080@144dpi" x="638" y="335" />
     <location key="Github.ShareDialog.0.0.1920.1080@144dpi" x="718" y="347" />
     <location key="Github.UntrackedFilesDialog.0.0.1920.1080@144dpi" x="317" y="48" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080@144dpi" width="1920" height="200" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080@144dpi" width="1920" height="200" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080@144dpi" width="1920" height="200" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@144dpi" width="1920" height="200" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@144dpi" width="1920" height="254" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@144dpi" width="1920" height="254" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@144dpi" width="1920" height="254" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@144dpi" width="1920" height="254" />
     <size key="GridCell.Tab.1.left.0.0.1920.1080@144dpi" width="1920" height="317" />
     <size key="GridCell.Tab.1.center.0.0.1920.1080@144dpi" width="1920" height="317" />
     <size key="GridCell.Tab.1.right.0.0.1920.1080@144dpi" width="1920" height="317" />
